@@ -138,9 +138,9 @@ Backend_Project/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/FitStream.git
+[git clone https://github.com/yourusername/FitStream.git](https://github.com/adityabanerjee510-bit/Backend-Developer-Assignment-INT.git)
 
-cd FitStream
+cd Backend_Project
 ```
 
 ---
