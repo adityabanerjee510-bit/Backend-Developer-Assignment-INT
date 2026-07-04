@@ -1,4 +1,4 @@
-# 🏋️ FitStream - Fitness Studio Booking API
+# Fitness_Stream - Fitness Studio Booking API
 
 A production-ready **RESTful Fitness Studio Booking API** built with **FastAPI**, **MongoDB**, and **JWT Authentication**.
 
@@ -110,6 +110,8 @@ Backend_Project/
 ├── main.py
 ├── requirements.txt
 └── README.md
+|
+|__ admin_script.py
 ```
 
 ---
@@ -190,6 +192,9 @@ ADMIN_USERNAME=
 
 ADMIN_PASSWORD=
 ```
+---
+# Create Admin
+Before starting the server run the Admin_script.py to make a admin because later a admin can create other admin otherwise not!!..
 
 ---
 
@@ -419,25 +424,33 @@ refresh_tokens
 
 ## Swagger Documentation
 
-> *(Add Screenshot Here)*
+<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3fdf0a8c-e32c-4a12-a181-b570ab1b97ad" />
+
 
 ---
 
 ## MongoDB Collections
 
-> *(Add Screenshot Here)*
+<img width="1901" height="1007" alt="image" src="https://github.com/user-attachments/assets/9746a0b9-de14-4f35-9a8e-016d4fed160d" />
 
 ---
 
 ## Successful Booking
 
-> *(Add Screenshot Here)*
+<img width="1912" height="847" alt="image" src="https://github.com/user-attachments/assets/878cf1a9-de8b-48c9-abe6-98cf469e668b" />
+
+<img width="1886" height="812" alt="image" src="https://github.com/user-attachments/assets/704b6348-0943-49b8-b2cd-55c04fea43e5" />
 
 ---
 
 ## Login Response
+<img width="1901" height="848" alt="image" src="https://github.com/user-attachments/assets/d0cc7e2a-a80b-43a4-85ad-7a0fdd64d425" />
 
-> *(Add Screenshot Here)*
+
+<img width="1820" height="877" alt="image" src="https://github.com/user-attachments/assets/a78b79d7-f078-4894-8496-ccb248d27b10" />
+
+
+<img width="1878" height="742" alt="image" src="https://github.com/user-attachments/assets/7f2f6720-9644-4258-9cae-70851e47120e" />
 
 ---
 
